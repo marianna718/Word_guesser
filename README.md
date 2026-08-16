@@ -1,4 +1,7 @@
 # Word Guesser
+To install what the graphical version needs, run:
+pip install -r requirements.txt
+
 To play the terminal version of the game, run:
 python "Word guesser.py"
 
